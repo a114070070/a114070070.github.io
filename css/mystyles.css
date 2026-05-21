@@ -1,0 +1,51 @@
+.ruichucenter{
+    text-align: center;
+    color:rgb(190, 155, 155);
+    background-color: rgb(252, 242, 228);
+}
+.rrrcenter{
+    color: rgb(247, 245, 245);
+    background-color: rgb(171, 147, 147);
+    margin: 10px 20px 10px 20px;
+    border-color: rgb(196, 196, 218);
+    padding: 20px 30px;
+    border-radius: 15px;
+    width: 80%;
+    height: 100px;
+    overflow: auto;
+}
+.rrr{
+    text-align: center;
+}
+.uuu{
+    text-align: center;
+}
+a.ruichulink{
+    color: rgb(160, 129, 129);
+    padding: 0 10px;
+    border-radius: 40px;
+    background-color: rgb(179, 161, 161);
+}
+a.ruichulink:hover{
+    background-color: rgb(146, 116, 116);
+    color: rgb(254, 254, 254);
+}
+.ruichubig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.ruichugo{
+    font-size: 50px;
+    text-align: left;
+}
+section#about{
+    background-color: #d9d9d9;
+    background-image: url("../assets/img/bg.jpg");
+    background-position: left;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#cta{
+    background-color: #d9d9d9;
+}
