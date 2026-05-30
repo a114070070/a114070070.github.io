@@ -3,19 +3,21 @@
     color:rgb(190, 155, 155);
     background-color: rgb(252, 242, 228);
 }
+.span{
+    color: rgb(104, 103, 103);
+}
 .rrrcenter{
-    color: rgb(247, 245, 245);
-    background-color: rgb(171, 147, 147);
-    margin: 10px 20px 10px 20px;
-    border-color: rgb(196, 196, 218);
-    padding: 20px 30px;
-    border-radius: 15px;
-    width: 80%;
-    height: 100px;
-    overflow: auto;
+    color: rgba(72, 70, 70, 0.85);
+    text-align: center;
+    background-color: rgba(172, 172, 172, 0.916);
+    margin: 10px auto;
+    padding: 20px 20px;
+    width: 100%;
+    height: 150px;
 }
 .rrr{
     text-align: center;
+    color: rgb(103, 101, 101);
 }
 .uuu{
     text-align: center;
@@ -40,7 +42,7 @@ a.ruichulink:hover{
 }
 section#about{
     background-color: #d9d9d9;
-    background-image: url("../assets/img/bg.jpg");
+    background-image: url("biggggg.jpg");
     background-position: left;
     background-repeat:no-repeat ;
     background-attachment: fixed;
@@ -48,4 +50,5 @@ section#about{
 }
 section#cta{
     background-color: #d9d9d9;
+    text-align: center;
 }
