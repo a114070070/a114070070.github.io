@@ -1,26 +1,39 @@
 .ruichucenter{
     text-align: center;
-    color:rgb(190, 155, 155);
-    background-color: rgb(252, 242, 228);
+    color:rgb(136, 107, 107);
 }
 .span{
     color: rgb(104, 103, 103);
 }
 .rrrcenter{
-    color: rgba(72, 70, 70, 0.85);
+    color: rgba(23, 22, 22, 0.85);
     text-align: center;
-    background-color: rgba(172, 172, 172, 0.916);
+    background-color: rgba(215, 211, 211, 0.865);
     margin: 10px auto;
     padding: 20px 20px;
     width: 100%;
     height: 150px;
+    border-radius: 20px;
+}
+.rrcenter{
+    text-align: center;
+    color:rgb(136, 107, 107);
+}
+.rrrrcenter{
+    text-align: center;
+    color:rgb(136, 107, 107);
+}
+.rrrrrcenter{
+    text-align: center;
+    color:rgb(136, 107, 107);
 }
 .rrr{
     text-align: center;
-    color: rgb(103, 101, 101);
+    color:rgb(136, 107, 107);
 }
 .uuu{
     text-align: center;
+    color:rgb(85, 62, 62);
 }
 a.ruichulink{
     color: rgb(160, 129, 129);
@@ -36,22 +49,36 @@ a.ruichulink:hover{
     font-size: 20px;
     font-weight: 800;
 }
+.ruichubbig{
+    background-color: rgb(145, 113, 109);
+    font-size: 20px;
+    font-weight: 800;
+}
 .ruichugo{
     font-size: 50px;
     text-align: left;
 }
 section#about{
     background-color: #d9d9d9;
-    background-image: url("bg.jpg");
+    background-image: url("../assets/img/345.jpg");
     background-position: left;
     background-repeat:no-repeat ;
     background-attachment: fixed;
     background-size: cover;
 }
 section#cta{
-    background-color: #d9d9d9;
     text-align: center;
+    background-image: url("../assets/img/345.jpg");
 }
 section#school{
-    background-image: url("123.jpg");
+    background-image: url("../assets/img/123.jpg");
+}
+section#work{
+    background-image: url("../assets/img/123.jpg");
+}
+section#skills{
+    background-image: url("../assets/img/123.jpg");
+}
+section#interests{
+    background-image: url("../assets/img/123.jpg");
 }
