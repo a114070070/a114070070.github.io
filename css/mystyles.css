@@ -52,3 +52,6 @@ section#cta{
     background-color: #d9d9d9;
     text-align: center;
 }
+section#school{
+    background-image: url("123.jpg");
+}
