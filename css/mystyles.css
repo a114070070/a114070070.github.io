@@ -50,13 +50,14 @@ a.ruichulink:hover{
     font-weight: 800;
 }
 .ruichubbig{
-    background-color: rgb(145, 113, 109);
+    background-color: rgb(187, 167, 164);
     font-size: 20px;
     font-weight: 800;
 }
 .ruichugo{
     font-size: 50px;
     text-align: left;
+    color:rgb(136, 107, 107);
 }
 section#about{
     background-color: #d9d9d9;
@@ -71,14 +72,17 @@ section#cta{
     background-image: url("../assets/img/345.jpg");
 }
 section#school{
-    background-image: url("../assets/img/123.jpg");
+    background-image: url("../assets/img/456.jpg");
 }
 section#work{
-    background-image: url("../assets/img/123.jpg");
+    background-image: url("../assets/img/456.jpg");
 }
 section#skills{
-    background-image: url("../assets/img/123.jpg");
+    background-image: url("../assets/img/456.jpg");
 }
 section#interests{
-    background-image: url("../assets/img/123.jpg");
+    background-image: url("../assets/img/456.jpg");
+}
+.ruichubiggg{
+    background-color: rgb(226, 215, 214);
 }
