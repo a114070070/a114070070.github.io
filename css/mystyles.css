@@ -36,7 +36,7 @@
 .rrrrrrr{
     color: rgba(23, 22, 22, 0.85);
     text-align: left;
-    background-color: rgba(212, 201, 201, 0.865);
+    background-color: rgba(227, 210, 210, 0.865);
     margin: 10px auto;
     padding: 20px 20px;
     width: 100%;
@@ -96,16 +96,16 @@ section#cta{
     background-image: url("../assets/img/345.jpg");
 }
 section#school{
-    background-image: url("../assets/img/456.jpg");
+    background-image: url("../assets/img/4567.jpg");
 }
 section#work{
-    background-image: url("../assets/img/456.jpg");
+    background-image: url("../assets/img/4567.jpg");
 }
 section#skills{
-    background-image: url("../assets/img/456.jpg");
+    background-image: url("../assets/img/4567.jpg");
 }
 section#interests{
-    background-image: url("../assets/img/456.jpg");
+    background-image: url("../assets/img/4567.jpg");
 }
 .ruichubiggg{
     background-color: rgb(226, 215, 214);
@@ -121,30 +121,4 @@ a.musiconelink:hover{
     padding: 0 10px;
     border-radius: 40px;
     background-color: rgb(255, 255, 255);
-}
-.photo-gallery {
-    max-width: 1100px;  /* 限制最大寬度，避免在大螢幕拉得太開 */
-    margin-left: auto;   /* 左右外級距自動，達成水平置中 */
-    margin-right: auto;
-    padding-left: 15px;  /* 加上內襯，防範貼齊邊緣 */
-    padding-right: 15px;
-}
-
-/* 確保所有卡片背景透明，且沒有多餘的邊框影響排版 */
-.photo-gallery .card {
-    background-color: transparent;
-}
-/* 1. 自動讓卡片在放大時裁切邊緣，不滿出來 */
-.card {
-  overflow: hidden !important;
-}
-
-/* 2. 自動幫卡片裡面的所有照片加上平滑動畫 */
-.card img {
-  transition: transform 0.4s ease-in-out !important;
-}
-
-/* 3. 當滑鼠移到卡片上時，裡面的照片自動放大 1.1 倍 */
-.card:hover img {
-  transform: scale(1.1) !important;
 }
